@@ -161,6 +161,8 @@
       <div class="container">
         <p>&copy; 2017 Medjed. All Rights Reserved.</p>
 	<a href="https://github.com/Johnathan-P-Burns/OpenPC">View Source on GitHub.</a>
+	<br>
+	<a href="http://ec2-34-192-112-37.compute-1.amazonaws.com/notifications.php?0bac2d1f-7bc2-47ac-82e5-e5293b2a731b">Sneaky Little Notification Demo</a>
       </div>
     </footer>
 
